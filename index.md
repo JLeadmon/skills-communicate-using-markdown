@@ -1,2 +1,3 @@
-#  My second commit for this tutorial.
+#  My third commit for this tutorial.
 # ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# var myVar = "Hello, world!";
